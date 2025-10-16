@@ -1,7 +1,7 @@
 # ES2025-GrupoX-CervejariaBS
 Especificação de Sistema de Controle para a Cervejaria BeboSim - Projeto da Disciplina de Engenharia de Software.
 
-# 🍺 Cervejaria BeboSim  
+# Cervejaria BeboSim  
 ### Sistema de Controle de Produção e Vendas  
 **Disciplina:** Engenharia de Software – 2025  
 **Professor:** Radamés Pereira  
